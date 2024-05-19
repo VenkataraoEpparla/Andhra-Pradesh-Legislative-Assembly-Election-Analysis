@@ -68,6 +68,8 @@ This analysis provides a detailed view of the Andhra Pradesh Legislative Assembl
 ---
 
 For more details, please refer to the individual Power BI reports and dashboards included in this repository.
-**[2014&2019 AP Assembly Election Analysis Report .pdf file](https://github.com/VenkataraoEpparla/Andhra-Pradesh-Legislative-Assembly-Election-Analysis/blob/main/2014%262019%20AP%20Assembly%20Election%20Analysis%20Report.pdf)**
+
+**[2014&2019 AP Assembly Election Analysis Report .pdf file](https://github.com/VenkataraoEpparla/Andhra-Pradesh-Legislative-Assembly-Election-Analysis/blob/main/2014%262019%20AP%20Assembly%20Election%20Analysis%20Report.pdf)**.
+
 **[2014&2019 AP Assembly Election Analysis Report .pbix file](https://github.com/VenkataraoEpparla/Andhra-Pradesh-Legislative-Assembly-Election-Analysis/blob/main/2014%262019%20AP%20Assembly%20Election%20Analysis%20Report.pbix)**
 
